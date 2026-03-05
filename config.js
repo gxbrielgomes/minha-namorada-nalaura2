@@ -43,14 +43,14 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOOOW você me ama esse tanto?",  // Shows when they go past 5000%
-        high: "Ao infinito e além",              // Shows when they go past 1000%
-        normal: "E pra casa do caralho"                           // Shows when they go past 100%
+        high: "EIIIIITAAAAA",              // Shows when they go past 1000%
+        normal: "TAMBÉM TE AMO!!!"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Eba, eu sou a pessoa mais sortuda do mundo!🎉💝💖💝💓",
-        message: "Agora vem pegar seu presente, um abraço e um beijinho!",
+        title: "Sou o cara mais sortudo do mundo💝💖💝💓",
+        message: "Te amo meu amor, to com saudades! Você acabou de ganhar um vale massagem e filme com pipoca pro final de semana ",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
